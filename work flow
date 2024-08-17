@@ -42,7 +42,3 @@ Creating a dropdown menu to select a business card to delete.
 Displaying the current information for the selected business card.
 Providing a button to confirm the deletion and removing the business card information from the database.
 Displaying the Streamlit application using st.caption.
-
-This code provides a basic framework for building a business card management application using Streamlit, OCR, and a MySQL database. You can further customize and enhance the functionality according to your specific requirements.
-
-Let me know if you need any further clarification!
